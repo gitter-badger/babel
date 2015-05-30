@@ -15,3 +15,6 @@
 <p align="center">
   For documentation and website issues please visit the <a href="https://github.com/babel/babel.github.io">babel.github.io</a> repo.
 </p>
+
+
+[![Join the chat at https://gitter.im/bucaran/babel](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/bucaran/babel?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
